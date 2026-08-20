@@ -1,0 +1,9 @@
+{
+  "name": "Runtime",
+  "version": "1.0.0",
+  "status": "online",
+  "message": "",
+  "payload": "dist/runtime.lua",
+  "validation_url": "https://blipware.exanetyy.workers.dev",
+  "ui": "ui/source.luau"
+}

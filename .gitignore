@@ -1,0 +1,10 @@
+.env
+.dev.vars
+*.map
+*.log
+keys.json
+private/
+src/
+GameDumpFiles/
+DeathMatchFarm.lua
+OperationSiegeBlipware.lua
