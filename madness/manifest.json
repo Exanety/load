@@ -1,0 +1,10 @@
+{
+  "name": "Madness",
+  "version": "0.3.0",
+  "status": "online",
+  "message": "",
+  "payload": "dist/madness-297428f0e6692555.lua",
+  "payload_bytes": 364512,
+  "payload_sha256": "297428f0e66925554d220f8e6434da1392faeecac0f33e83138280b91f0b8515",
+  "validation_url": "https://blipware.exanetyy.workers.dev"
+}
