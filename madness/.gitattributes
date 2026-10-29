@@ -1,0 +1,4 @@
+/dist/*.lua -text
+*.json text eol=lf
+*.md text eol=lf
+loader.lua text eol=lf

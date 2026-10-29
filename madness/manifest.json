@@ -1,10 +1,11 @@
 {
   "name": "Madness",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "status": "online",
   "message": "",
-  "payload": "dist/madness-297428f0e6692555.lua",
-  "payload_bytes": 364512,
-  "payload_sha256": "297428f0e66925554d220f8e6434da1392faeecac0f33e83138280b91f0b8515",
-  "validation_url": "https://blipware.exanetyy.workers.dev"
+  "payload": "dist/madness-f148d46d8cf2fe2d.lua",
+  "payload_bytes": 688670,
+  "payload_sha256": "f148d46d8cf2fe2d4225e6575a4ecc5f7bb798c08acef2f24306df9875e164f3",
+  "validation_url": "https://blipware.exanetyy.workers.dev",
+  "protection": "Luraph v15.1"
 }
