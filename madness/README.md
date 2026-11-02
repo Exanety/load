@@ -1,5 +1,7 @@
 # Madness
 
+**Temporarily disabled by the owner.** The loader currently blocks startup.
+
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exanety/load/main/madness/loader.lua"))()
 ```

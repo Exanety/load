@@ -1,8 +1,8 @@
 {
   "name": "Madness",
   "version": "0.3.1",
-  "status": "online",
-  "message": "",
+  "status": "offline",
+  "message": "Madness is temporarily disabled by its owner.",
   "payload": "dist/madness-f148d46d8cf2fe2d.lua",
   "payload_bytes": 688670,
   "payload_sha256": "f148d46d8cf2fe2d4225e6575a4ecc5f7bb798c08acef2f24306df9875e164f3",
