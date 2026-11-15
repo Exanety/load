@@ -7,5 +7,5 @@
   "payload_bytes": 688670,
   "payload_sha256": "f148d46d8cf2fe2d4225e6575a4ecc5f7bb798c08acef2f24306df9875e164f3",
   "validation_url": "https://blipware.exanetyy.workers.dev",
-  "protection": "Luraph v15.1"
+  "protection": "Moonsec v3.0"
 }
